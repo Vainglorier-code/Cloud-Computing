@@ -1,8 +1,5 @@
-# Dining Concierge Chatbot
-[Link](https://chatbot-bucket-useast1.s3.amazonaws.com/chat.html)
-
-
 # DineVoyage
+[Link](https://chatbot-bucket-useast1.s3.amazonaws.com/chat.html)
 
 ## Introduction
 DineVoyage is a cutting-edge Dining Concierge chatbot designed to revolutionize the way users discover dining options tailored to their preferences. Utilizing AWS services, DineVoyage offers personalized restaurant recommendations, ensuring an exquisite dining experience for every user.
